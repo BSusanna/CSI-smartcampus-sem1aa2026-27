@@ -97,7 +97,3 @@ The emphasis is on:
 - Its potential for real-world adoption and scalability.
 
 Projects will be presented during the **Demo Day on January 29, 2027**.
-
----
-
-*From ideas to prototypes: building smarter campus solutions through creativity, science, and innovation.*
