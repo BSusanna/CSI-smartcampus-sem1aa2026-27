@@ -14,15 +14,15 @@ The project follows a practical, innovation-oriented approach, moving from ideas
 
 ## Course Schedule
 
-| Date | Time | Topic |
+| Date | Time | Room | Topic |
 |---|---|---|---|
-| 19/11/2026 | 18:00 – 19:30 | The Campus as a Cyber-Physical System |
-| 23/11/2026 | 12:30 – 14:00 | ML for Occupancy & Space Usage |
-| 26/11/2026 | 18:00 – 19:30 | Forecasting and Anomaly Detection |
-| 30/11/2026 | 12:30 – 14:00 | UNO Q in the Room: Edge Sensing and On-Device Inference |
-| 02/12/2026 | 18:00 – 19:30 | Examples & Project Clinic |
-| 10/12/2026 | 12:30 – 14:00 | Edge or Cloud? Integration & Deployment |
-| **29/01/2027** | **All day** | **Demo Day** |
+| 19/11/2026 | 18:00 – 19:30 | 3.1.1 | The Campus as a Cyber-Physical System |
+| 23/11/2026 | 12:30 – 14:00 | 3.1.1 | ML for Occupancy & Space Usage |
+| 26/11/2026 | 18:00 – 19:30 | Alfa | Forecasting and Anomaly Detection |
+| 30/11/2026 | 12:30 – 14:00 | 3.1.1 | UNO Q in the Room: Edge Sensing and On-Device Inference |
+| 02/12/2026 | 18:00 – 19:30 | Alfa | Examples & Project Clinic |
+| 10/12/2026 | 12:30 – 14:00 | 3.1.1 | Edge or Cloud? Integration & Deployment |
+| **29/01/2027** | **All day** | **TBD** | **Demo Day** |
 
 ## Main Topics
 
